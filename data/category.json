@@ -1,34 +1,26 @@
 [
 	{
 		"id": "01",
-		"name": "Breaking News"
+		"name": "Competitive Programming"
 	},
 	{
 		"id": "02",
-		"name": "Regular News"
+		"name": "Full Stack Web Development"
 	},
 	{
 		"id": "03",
-		"name": "International News"
+		"name": "Machine Learning"
 	},
 	{
 		"id": "04",
-		"name": "Sports"
+		"name": "Cloud Development"
 	},
 	{
 		"id": "05",
-		"name": "Entertainment"
+		"name": "Ethical Hacking"
 	},
 	{
 		"id": "06",
-		"name": "Culture"
-	},
-	{
-		"id": "07",
-		"name": "Arts"
-	},
-	{
-		"id": "08",
-		"name": "All News"
+		"name": "Data Science"
 	}
 ]
