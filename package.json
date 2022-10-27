@@ -1,7 +1,6 @@
 {
   "name": "skill_box_server",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js",
@@ -14,5 +13,15 @@
     "cors": "^2.8.5",
     "express": "^4.18.2",
     "nodemon": "^2.0.20"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/programming-hero-web-course1/b610-lerning-platform-server-side-rubelrana123.git"
+  },
+  "bugs": {
+    "url": "https://github.com/programming-hero-web-course1/b610-lerning-platform-server-side-rubelrana123/issues"
+  },
+  "homepage": "https://github.com/programming-hero-web-course1/b610-lerning-platform-server-side-rubelrana123#readme",
+  "description": ""
 }
